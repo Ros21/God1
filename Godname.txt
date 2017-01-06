@@ -2,5 +2,6 @@
 2.Krishna
 3.Ram
 4.Hari
-5.Datatreya
+5.Hari
 6.Vishnu
+7.Visworoop
